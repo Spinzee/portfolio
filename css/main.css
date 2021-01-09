@@ -1,0 +1,9 @@
+.override.carousel-inner {
+    width: 320px;
+}
+
+@media (min-width: 768px) {
+    .override.carousel-inner {
+        width: 640px;
+    }
+}
